@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1630879755 source:c:\users\chick\onedrive\documents\code\persona\main.c
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+
+1630908275 source:c:\users\chick\onedrive\documents\code\persona\persona.cpp
+	<GLFW/glfw3.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
